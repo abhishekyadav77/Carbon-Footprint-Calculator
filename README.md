@@ -2,9 +2,6 @@
 
 Requires **Python 3.10, 3.11 or 3.12** (not 3.13+).
 
-## Easiest way
-- Windows: double-click `run_windows.bat`
-- Mac/Linux: `./run_mac_linux.sh`
 
 ## Manual way
 ```
