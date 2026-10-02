@@ -14,7 +14,7 @@
 
 ### 🌐 Try the Application
 
-**Live Demo:** `(https://carbon-footprint-calculator-eqng.onrender.com)`
+**Live Demo:** `https://carbon-footprint-calculator-eqng.onrender.com`
 
 > Replace the link above with your deployed Streamlit application URL.
 
