@@ -65,13 +65,6 @@ Users provide information about their personal habits, transportation preference
 
 ---
 
-### ⚡ Energy, Waste & Consumption
-
-![Energy and Consumption](screenshots/energy-consumption.png)
-
-The calculator also considers waste generation, recycling, energy usage, cooking methods, screen time, internet usage and consumption habits.
-
----
 
 ### 📊 Carbon Footprint Result
 
