@@ -27,7 +27,7 @@ Then open http://localhost:8501
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-orange)]
 [![Status](https://img.shields.io/badge/Project-College%20Project-success)]
-[![License](https://img.shields.io/badge/License-MIT-green)]
+
 
 ---
 
