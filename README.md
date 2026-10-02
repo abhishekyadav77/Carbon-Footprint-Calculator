@@ -80,7 +80,7 @@ The landing page introduces the purpose of the calculator and guides the user to
 
 ### 📝 Lifestyle Information
 
-![Personal and Travel](screenshots/personal-travel.png)
+![Waste](screenshots/waste.png)
 
 Users provide information about their personal habits, transportation preferences, vehicle usage and air travel.
 
@@ -97,6 +97,7 @@ The calculator also considers waste generation, recycling, energy usage, cooking
 ### 📊 Carbon Footprint Result
 
 ![Carbon Footprint Result](screenshots/result.png)
+![Carbon Footprint Result](screenshots/result1.png)
 
 After completing the form, the application generates an estimated monthly footprint and displays an approximate contribution of different categories such as:
 
@@ -298,7 +299,7 @@ Carbon Footprint Calculator/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git https://github.com/abhishekyadav77/Carbon-Footprint-Calculator
 cd "Carbon Footprint Calculator"
 ```
 
@@ -358,22 +359,6 @@ http://localhost:8501
 
 ---
 
-# ⚡ Quick Start
-
-### Windows
-
-Simply run:
-
-```text
-run_windows.bat
-```
-
-### macOS / Linux
-
-```bash
-chmod +x run_mac_linux.sh
-./run_mac_linux.sh
-```
 
 These scripts automate the environment setup and application launch.
 
@@ -480,9 +465,8 @@ The project also helped in understanding practical concepts such as:
 
 **B.Tech CSE | Web Developer**
 
-* GitHub: `YOUR_GITHUB_PROFILE`
-* LinkedIn: `YOUR_LINKEDIN_PROFILE`
-* Portfolio: `YOUR_PORTFOLIO_LINK`
+* GitHub: `https://github.com/abhishekyadav77/Carbon-Footprint-Calculator`
+* LinkedIn: `https://www.linkedin.com/in/abhishek-yadav-mzp/`
 
 ---
 
@@ -492,11 +476,7 @@ If you found this project interesting, consider giving the repository a ⭐ on G
 
 ---
 
-## 📜 License
 
-This project is available under the **MIT License**.
-
----
 
 > 🌱 **Small lifestyle changes can contribute to a larger environmental impact.**
 >
